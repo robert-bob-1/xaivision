@@ -47778,7 +47778,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-sheet-1 {
-  min-height: 166px;
+  min-height: 144px;
 }
 
 .u-footer .u-text-1 {
@@ -47794,14 +47794,10 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-text-3 {
-  width: 257px;
-  margin: 0 auto 60px;
+  width: 187px;
+  margin: 0 auto 41px;
 }
-@media (max-width: 1199px) {
-  .u-footer .u-text-3 {
-    margin-top: 0;
-  }
-}
+
 
 
 
